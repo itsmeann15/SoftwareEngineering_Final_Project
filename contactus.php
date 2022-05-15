@@ -202,8 +202,7 @@
                     
                     <div class="col item social"><a href="https://www.facebook.com/LeoRentACarZamboanga"><i class="icon ion-social-facebook"></i></a></div>
                         <p class="copyright">Maharlika Company © 2022 -  All Rights Reserved</p>
-                    </div>
-            </div>
+                   </div>
             </div>
         </footer>
     </div>    
